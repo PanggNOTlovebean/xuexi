@@ -60,3 +60,4 @@ Class c4=loader.loadClass("com.lipan.test02.Person");
 
  当然枚举类也可以有自己的方法、属性 以及实现接口 需要在每个枚举里面都写接口的实现
 
+H
